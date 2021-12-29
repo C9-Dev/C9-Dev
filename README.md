@@ -3,7 +3,7 @@
 
 **:space_invader:_Sou estudante de Desenvolvimento de Sistemas_**  
 **:one::seven: Anos de idade**  
-**:purple_heart:Meu hobby é aprender** 
+**:heart:Meu hobby é aprender** 
 > _Etec Irmã Agostina_
 
 ***
